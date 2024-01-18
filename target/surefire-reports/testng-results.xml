@@ -32,7 +32,7 @@
       <![CDATA[Fetching number of results from Banners ]]>
     </line>
     <line>
-      <![CDATA[Location of Scrrenshot: F:\Automation Testing\Scrrenshots\TC01_2024.01.18.10.06.09.png]]>
+      <![CDATA[Location of Scrrenshot: F:\Automation Testing\Scrrenshots\TC01_2024.01.18.17.05.57.png]]>
     </line>
     <line>
       <![CDATA[Closing Browser:]]>
@@ -74,19 +74,19 @@
       <![CDATA[Closing Browser:]]>
     </line>
   </reporter-output>
-  <suite started-at="2024-01-18T10:05:41 IST" name="Suite" finished-at="2024-01-18T10:06:41 IST" duration-ms="60562">
+  <suite started-at="2024-01-18T17:05:30 IST" name="Suite" finished-at="2024-01-18T17:06:32 IST" duration-ms="61616">
     <groups>
     </groups>
-    <test started-at="2024-01-18T10:05:41 IST" name="Test" finished-at="2024-01-18T10:06:41 IST" duration-ms="60562">
+    <test started-at="2024-01-18T17:05:30 IST" name="Test" finished-at="2024-01-18T17:06:32 IST" duration-ms="61616">
       <class name="coverFoxTest.CF_TC01_Validate_search_results_for_healthcare_policies">
-        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:coverFoxTest.CF_TC01_Validate_search_results_for_healthcare_policies@a514af7]" started-at="2024-01-18T10:05:41 IST" name="launchBrowser" finished-at="2024-01-18T10:05:49 IST" duration-ms="8809" status="PASS">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:coverFoxTest.CF_TC01_Validate_search_results_for_healthcare_policies@a514af7]" started-at="2024-01-18T17:05:30 IST" name="launchBrowser" finished-at="2024-01-18T17:05:36 IST" duration-ms="5738" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Launching Browser:]]>
             </line>
           </reporter-output>
         </test-method> <!-- launchBrowser -->
-        <test-method is-config="true" signature="enterMemeberDeatils()[pri:0, instance:coverFoxTest.CF_TC01_Validate_search_results_for_healthcare_policies@a514af7]" started-at="2024-01-18T10:05:49 IST" name="enterMemeberDeatils" finished-at="2024-01-18T10:05:56 IST" duration-ms="6555" status="PASS">
+        <test-method is-config="true" signature="enterMemeberDeatils()[pri:0, instance:coverFoxTest.CF_TC01_Validate_search_results_for_healthcare_policies@a514af7]" started-at="2024-01-18T17:05:36 IST" name="enterMemeberDeatils" finished-at="2024-01-18T17:05:43 IST" duration-ms="7173" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[clicking on gender button ]]>
@@ -111,7 +111,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- enterMemeberDeatils -->
-        <test-method signature="validateTestPlansFromTextAndBanners()[pri:0, instance:coverFoxTest.CF_TC01_Validate_search_results_for_healthcare_policies@a514af7]" started-at="2024-01-18T10:05:56 IST" name="validateTestPlansFromTextAndBanners" finished-at="2024-01-18T10:06:10 IST" duration-ms="13509" status="PASS">
+        <test-method signature="validateTestPlansFromTextAndBanners()[pri:0, instance:coverFoxTest.CF_TC01_Validate_search_results_for_healthcare_policies@a514af7]" started-at="2024-01-18T17:05:43 IST" name="validateTestPlansFromTextAndBanners" finished-at="2024-01-18T17:05:58 IST" duration-ms="14619" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Fetching number of results from text ]]>
@@ -120,11 +120,11 @@
               <![CDATA[Fetching number of results from Banners ]]>
             </line>
             <line>
-              <![CDATA[Location of Scrrenshot: F:\Automation Testing\Scrrenshots\TC01_2024.01.18.10.06.09.png]]>
+              <![CDATA[Location of Scrrenshot: F:\Automation Testing\Scrrenshots\TC01_2024.01.18.17.05.57.png]]>
             </line>
           </reporter-output>
         </test-method> <!-- validateTestPlansFromTextAndBanners -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:coverFoxTest.CF_TC01_Validate_search_results_for_healthcare_policies@a514af7]" started-at="2024-01-18T10:06:10 IST" name="closeBrowser" finished-at="2024-01-18T10:06:14 IST" duration-ms="4174" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:coverFoxTest.CF_TC01_Validate_search_results_for_healthcare_policies@a514af7]" started-at="2024-01-18T17:05:58 IST" name="closeBrowser" finished-at="2024-01-18T17:06:02 IST" duration-ms="4160" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Closing Browser:]]>
@@ -133,14 +133,14 @@
         </test-method> <!-- closeBrowser -->
       </class> <!-- coverFoxTest.CF_TC01_Validate_search_results_for_healthcare_policies -->
       <class name="coverFoxTest.CF_TC01_Validate_search_results_for_healthcare_policies2">
-        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:coverFoxTest.CF_TC01_Validate_search_results_for_healthcare_policies2@294425a7]" started-at="2024-01-18T10:06:14 IST" name="launchBrowser" finished-at="2024-01-18T10:06:18 IST" duration-ms="4128" status="PASS">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:coverFoxTest.CF_TC01_Validate_search_results_for_healthcare_policies2@294425a7]" started-at="2024-01-18T17:06:02 IST" name="launchBrowser" finished-at="2024-01-18T17:06:07 IST" duration-ms="4774" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Launching Browser:]]>
             </line>
           </reporter-output>
         </test-method> <!-- launchBrowser -->
-        <test-method is-config="true" signature="enterMemeberDeatils()[pri:0, instance:coverFoxTest.CF_TC01_Validate_search_results_for_healthcare_policies2@294425a7]" started-at="2024-01-18T10:06:18 IST" name="enterMemeberDeatils" finished-at="2024-01-18T10:06:24 IST" duration-ms="5975" status="PASS">
+        <test-method is-config="true" signature="enterMemeberDeatils()[pri:0, instance:coverFoxTest.CF_TC01_Validate_search_results_for_healthcare_policies2@294425a7]" started-at="2024-01-18T17:06:07 IST" name="enterMemeberDeatils" finished-at="2024-01-18T17:06:13 IST" duration-ms="6073" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[clicking on gender button ]]>
@@ -165,7 +165,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- enterMemeberDeatils -->
-        <test-method signature="validateTestPlansFromTextAndBanners()[pri:0, instance:coverFoxTest.CF_TC01_Validate_search_results_for_healthcare_policies2@294425a7]" started-at="2024-01-18T10:06:24 IST" name="validateTestPlansFromTextAndBanners" finished-at="2024-01-18T10:06:37 IST" duration-ms="13133" status="PASS">
+        <test-method signature="validateTestPlansFromTextAndBanners()[pri:0, instance:coverFoxTest.CF_TC01_Validate_search_results_for_healthcare_policies2@294425a7]" started-at="2024-01-18T17:06:13 IST" name="validateTestPlansFromTextAndBanners" finished-at="2024-01-18T17:06:27 IST" duration-ms="14186" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Fetching number of results from text ]]>
@@ -178,7 +178,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- validateTestPlansFromTextAndBanners -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:coverFoxTest.CF_TC01_Validate_search_results_for_healthcare_policies2@294425a7]" started-at="2024-01-18T10:06:37 IST" name="closeBrowser" finished-at="2024-01-18T10:06:41 IST" duration-ms="4203" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:coverFoxTest.CF_TC01_Validate_search_results_for_healthcare_policies2@294425a7]" started-at="2024-01-18T17:06:27 IST" name="closeBrowser" finished-at="2024-01-18T17:06:32 IST" duration-ms="4805" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Closing Browser:]]>

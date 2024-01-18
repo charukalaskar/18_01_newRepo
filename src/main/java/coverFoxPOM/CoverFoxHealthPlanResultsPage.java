@@ -23,7 +23,7 @@ PageFactory.initElements(driver, this);
 
 
 //..................
-public int availablePlanNumberFromText()
+public int availablePlanNumberFromText() throws InterruptedException
 {
 String test = resultsInString.getText();
 //49 matching Health Insurance Plans
@@ -31,8 +31,8 @@ String ar[]=test.split(" ");
 //ar[]={"49" "matching" "Health" "Insurance" "Plans"}
 String numberOfResultsInString = ar[0];//49-->String
 //convert String to integer
+Thread.sleep(1000);
 int numberOfResultsInInt =Integer.parseInt(numberOfResultsInString);//49-->in number(int)
-
 return numberOfResultsInInt;
 }
 
