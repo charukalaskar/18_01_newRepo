@@ -194,3 +194,14 @@
 2024-01-18 17:07:08,480 - CoverFoxInsurance -INFO - Fetching number of results from text 
 2024-01-18 17:07:16,556 - CoverFoxInsurance -INFO - Fetching number of results from Banners 
 2024-01-18 17:07:17,604 - CoverFoxInsurance -INFO - Fetching number of results from Banners 
+2024-01-18 19:00:59,676 - CoverFoxInsurance -INFO - launchCoverFox
+2024-01-18 19:01:05,384 - CoverFoxInsurance -INFO - clicking on gender button 
+2024-01-18 19:01:07,639 - CoverFoxInsurance -INFO - clicking on next button 
+2024-01-18 19:01:08,732 - CoverFoxInsurance -INFO - Handeling age drop down 
+2024-01-18 19:01:10,512 - CoverFoxInsurance -INFO - Clicking on next button  
+2024-01-18 19:01:11,630 - CoverFoxInsurance -INFO - Entering pin code  
+2024-01-18 19:01:11,835 - CoverFoxInsurance -INFO - Entering mobile num
+2024-01-18 19:01:11,991 - CoverFoxInsurance -ERROR - Clicking on continue button 
+2024-01-18 19:01:18,110 - CoverFoxInsurance -INFO - Fetching number of results from text 
+2024-01-18 19:01:26,161 - CoverFoxInsurance -INFO - Fetching number of results from Banners 
+2024-01-18 19:01:27,236 - CoverFoxInsurance -INFO - Fetching number of results from Banners 
